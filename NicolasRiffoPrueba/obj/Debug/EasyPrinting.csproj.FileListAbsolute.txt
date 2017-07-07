@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll.config
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.pdb
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.xml
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.xml
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\EasyPrinting.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.pdb

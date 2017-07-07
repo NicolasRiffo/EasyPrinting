@@ -1,0 +1,20 @@
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll.config
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.pdb
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.csprojResolveAssemblyReference.cache
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.dll
+C:\Users\19009961-k\documents\visual studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.pdb
+C:\Users\19009961-k\Documents\Visual Studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.dll
+C:\Users\19009961-k\Documents\Visual Studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.dll
+C:\Users\19009961-k\Documents\Visual Studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.xml
+C:\Users\19009961-k\Documents\Visual Studio 2013\Projects\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.xml
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll.config
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\NicolasRiffoPrueba.pdb
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.xml
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\bin\EntityFramework.SqlServer.xml
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.dll
+C:\Users\Nicolas\Desktop\NicolasRiffoPrueba\NicolasRiffoPrueba\obj\Debug\NicolasRiffoPrueba.pdb
