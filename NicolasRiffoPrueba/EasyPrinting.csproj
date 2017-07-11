@@ -153,7 +153,12 @@
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Modelo\DataModel.cs" />
+    <Compile Include="Modelo\entidades\Administrador.cs" />
+    <Compile Include="Modelo\entidades\Alumno.cs" />
+    <Compile Include="Modelo\entidades\Boleta.cs" />
+    <Compile Include="Modelo\entidades\Docente.cs" />
     <Compile Include="Modelo\entidades\Encuesta.cs" />
+    <Compile Include="Modelo\entidades\Reponedor.cs" />
     <Compile Include="Plantilla.Master.cs">
       <DependentUpon>Plantilla.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
